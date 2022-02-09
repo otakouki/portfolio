@@ -11,4 +11,4 @@
         * MCP3008(A/Dコンバーター)
         * micromouse_teama
         * MPU605(6軸センサー)
-        * Photointerrupter(フォトインタラプタ)
+        * Photointerrupter(フォトインタラプタ割り込み処理)
