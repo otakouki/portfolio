@@ -8,6 +8,7 @@
             * RFID-RC522
         * hkk_project.sch
     * ゼミ演習
+    マイクロマウスのコード
         * MCP3008(A/Dコンバーター)
         * micromouse_teama
         * MPU605(6軸センサー)
